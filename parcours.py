@@ -1,0 +1,2 @@
+def parcours()
+    return "Bonjour"
