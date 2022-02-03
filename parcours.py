@@ -1,2 +1,0 @@
-def parcours()
-    return "Bonjour"
